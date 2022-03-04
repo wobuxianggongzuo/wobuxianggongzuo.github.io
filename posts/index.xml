@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Timmy de notes</title><link>https://wobuxianggongzuo.github.io/posts/</link><description>Recent content in Posts on Timmy de notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 01 Mar 2022 17:44:32 +0800</lastBuildDate><atom:link href="https://wobuxianggongzuo.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://wobuxianggongzuo.github.io/posts/test/</link><pubDate>Tue, 01 Mar 2022 17:44:32 +0800</pubDate><guid>https://wobuxianggongzuo.github.io/posts/test/</guid><description>&lt;h1 id="test">TEST&lt;/h1>
-&lt;h2 id="test2">test2&lt;/h2>
-&lt;div class="inline-block w-6 h-6 svg-wrapper">
-&lt;a rel="noopener" target="_blank" href="https://github.com/kaiiiz/hugo-theme-monochrome" aria-label="$icon_name">
-&lt;svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">&lt;path d="M0 0h24v24H0z" fill="none"/>&lt;path d="M20 15.31L23.31 12 20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69zM12 18c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6z"/>&lt;/svg>
-&lt;/a>
-&lt;/div>
-&lt;div class="rounded p-3 my-6" style="background-color: #dff0d8; color: #3c763d;" >
-hello world
-&lt;/div>
-&lt;div class="rounded p-3 my-6" style="background-color: #f0f0f0; color: #494949;" >
-- hello world
-- hello world
-- hello world
-- hello world
-- hello world
-&lt;/div>
-&lt;div class="rounded p-3 my-6" style="background-color: #dff0d8; color: #3c763d;" >
-hello world
-&lt;/div></description></item><item><title>Start Creating Notes</title><link>https://wobuxianggongzuo.github.io/posts/start-creating-notes/</link><pubDate>Thu, 24 Feb 2022 10:39:38 +0800</pubDate><guid>https://wobuxianggongzuo.github.io/posts/start-creating-notes/</guid><description>&lt;h1 id="evergreen-note">Evergreen Note&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Timmy de notes</title><link>https://wobuxianggongzuo.github.io/posts/</link><description>Recent content in Posts on Timmy de notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 24 Feb 2022 10:39:38 +0800</lastBuildDate><atom:link href="https://wobuxianggongzuo.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Start Creating Notes</title><link>https://wobuxianggongzuo.github.io/posts/start-creating-notes/</link><pubDate>Thu, 24 Feb 2022 10:39:38 +0800</pubDate><guid>https://wobuxianggongzuo.github.io/posts/start-creating-notes/</guid><description>&lt;h1 id="evergreen-note">Evergreen Note&lt;/h1>
 &lt;ul>
 &lt;li>Hugo 建立線上筆記&lt;/li>
 &lt;li>Github action 自動發佈&lt;/li>
